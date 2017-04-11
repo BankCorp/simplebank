@@ -18,5 +18,8 @@
   "homepage": "https://github.com/tenso2006/simplebank-1#readme",
   "dependencies": {
     "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "webpack": "^2.3.3"
   }
 }
