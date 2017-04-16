@@ -4,13 +4,3 @@
 ## NPM ##
 node_modules/
 npm-debug.log
-
-## Compiled files ##
-compiled/
-public/bundle.js
-
-## API keys ##
-client/config/keys.js
-
-
-server/db/dbconfig.js
